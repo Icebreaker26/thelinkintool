@@ -1,5 +1,6 @@
 # The Linkin´ Tool 📡📡📡
-Accede a la web: icebreaker26.github.io/thelinkintool/
+Accede a la web: <br>
+https://icebreaker26.github.io/thelinkintool <br>
 Es un software que aplica principios de ingeniería de radiopropagación, propios de la Ingeniería de Telecomunicaciones, para planificar enlaces punto a punto con precisión.
 
 ## ¿En que consiste? 🔻
